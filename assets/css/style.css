@@ -1,0 +1,61 @@
+html {
+  background: grey;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+h1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  background-color: gray;
+}
+
+h2 {
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+#Rock {
+  color: transparent; 
+  border: 0;
+  background-image: url(../images/Rock.png);
+  height: 200px;
+  width: 200px;
+  background-color: transparent;
+}
+
+#Paper {
+  color: transparent;
+  border: 0;
+  background-image: url(../images/Paper.png);
+  height: 200px;
+  width: 200px;
+  background-color: transparent;
+}
+
+#Scissors {
+  color: transparent;
+  border: 0;
+  background-image: url(../images/Scissor1.png);
+  height: 200px;
+  width: 200px;
+  background-color: transparent;
+}
+
+h5 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center; 
+}
+
+.button-box {
+ text-align: center; 
+  
+}
+
